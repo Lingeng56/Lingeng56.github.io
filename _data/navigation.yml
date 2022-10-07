@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "Terminal Version"
+    url: https://lingeng56.github.io/terminal
+    description: "用终端来了解我"
+  - title: "Github Page"
+    url: https://github.com/Lingeng56
+    description: "Github主页"
+  - title: "About Me"
+    url: https://lingeng56.github.io/about
+    description: "我的个人信息"
+    #- title: "Markdown Online"
+    #url: https://lingeng56.github.io/md_online
+    #description: "An online markdown editer"
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

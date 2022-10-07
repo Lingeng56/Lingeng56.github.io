@@ -1,0 +1,15 @@
+Wu Liu:
+  name: "Wu Liu"
+  bio: "北京语言大学语言智能专业20级本科生，主要方向为自然语言处理~\n\n❤HanYing❤"
+  avatar: "/assets/images/wuliu.jpg"
+  location: "Beijing"
+  links:
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://Lingeng56.github.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "xk21wl@163.com"
+    - label: "HomePage"
+      icon: "fas fa-fw fa-link"
+      url: "https://lingeng56.github.io"
